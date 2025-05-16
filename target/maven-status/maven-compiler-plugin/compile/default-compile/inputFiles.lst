@@ -1,0 +1,12 @@
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\CRUD_automovil.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\igu\AltaAutomovil.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\igu\ConsultaAutomovil.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\igu\ModifAuto.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\igu\Principal.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\logica\Automovil.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\logica\Controladora.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\persistencia\AutomovilJpaController.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\persistencia\ControladoraPersistencia.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\edwar\Documents\NetBeansProjects\CRUD_automovil\src\main\java\com\mycompany\crud_automovil\persistencia\exceptions\PreexistingEntityException.java
