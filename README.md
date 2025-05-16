@@ -14,8 +14,8 @@ Este proyecto es una aplicación **CRUD** (Crear, Leer, Actualizar, Eliminar) de
 * **Lenguaje de programación:** Java.
 * **Base de datos:** MySQL, gestionada a través de phpMyAdmin.
 * **Conexión con la base de datos:** JDBC (Java Database Connectivity).
-* **Entorno de desarrollo:** IDEs como IntelliJ IDEA o Eclipse.
-* **Gestión de dependencias:** Maven o Gradle (si aplica).
+* **Entorno de desarrollo:**NetBeans.
+* **Gestión de dependencias:** Maven.
 
 ### 💡 **Ventajas del sistema:**
 
